@@ -1,0 +1,4 @@
+Started GET "/" for 127.0.0.1 at 2017-10-27 17:14:53 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 625ms
